@@ -118,7 +118,7 @@ export default {
     transform: translateY(20px);
   }
   .switch-enter-to,
-  .swotch-leave-from{
+  .switch-leave-from{
     opacity: 1;
     transform: translateY(0);
   }
